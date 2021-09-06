@@ -1,0 +1,9 @@
+S.No |        Product          | Quantity | Price(₹) | Link
+===========================================================
+  1  | Arduino Uno or Nano     |    1     |    295   | https://www.electronicscomp.com/arduino-nano-3.0-development-board
+  2  | Matrix Display 4 in 1   |    1     |    345   | https://www.electronicscomp.com/max7219-dot-matrix-4-in-1-display-module-india?search=matrix%207219
+  3  | Buzzer                  |    1     |    33    | https://www.electronicscomp.com/active-buzzer-module-5v-india?search=buzzer
+  4  | Touch Button            |    4     |    22    | https://www.electronicscomp.com/ttp223-1-channel-capacitive-touch-sensor-module-red-color?search=touch%20sensor
+  5  | LDR                     |    1     |    6     | https://www.electronicscomp.com/ldr-5mm?search=ldr
+  6  | DS1307(RTC)             |    1     |    57    | https://www.electronicscomp.com/ds1307-real-time-clock-rtc-module?search=ds1307
+  7  | HC-05(Or Any Bluetooth) |    1     |    223   | https://www.electronicscomp.com/hc-05-bluetooth-module-buy-in-india?search=hc%20-%2005
