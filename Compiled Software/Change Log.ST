@@ -1,2 +1,3 @@
 -Displays icon even when it scrolls
 -Minor bug fixes 
+-Add Weather
